@@ -1,0 +1,1162 @@
+[
+  {
+    "name": "30th Century Comics",
+    "latitude": 51.467219,
+    "longitude": -0.21823445
+  },
+  {
+    "name": "56a Infoshop",
+    "latitude": 51.490349,
+    "longitude": -0.100036
+  },
+  {
+    "name": "Alice Through The Looking Glass",
+    "latitude": 51.510747,
+    "longitude": -0.127826
+  },
+  {
+    "name": "The Alligator's Mouth",
+    "latitude": 51.460545,
+    "longitude": -0.3040866
+  },
+  {
+    "name": "All You Read Is Love",
+    "latitude": 51.570393,
+    "longitude": 0.014117271
+  },
+  {
+    "name": "Alpha Book Company",
+    "latitude": 51.579856,
+    "longitude": 0.18220863
+  },
+  {
+    "name": "Al Saqi Books",
+    "latitude": 51.515648,
+    "longitude": -0.190136
+  },
+  {
+    "name": "Animal Aid & Advice",
+    "latitude": 51.560064,
+    "longitude": -0.09847
+  },
+  {
+    "name": "Any Amount of Books",
+    "latitude": 51.512268,
+    "longitude": -0.128467
+  },
+  {
+    "name": "A Place In Space",
+    "latitude": 51.373889,
+    "longitude": -0.104669
+  },
+  {
+    "name": "Archive Bookstore",
+    "latitude": 51.521667,
+    "longitude": -0.167102
+  },
+  {
+    "name": "Arthur Probsthain",
+    "latitude": 51.517921,
+    "longitude": -0.126815
+  },
+  {
+    "name": "Artwords",
+    "latitude": 51.526207,
+    "longitude": -0.080917
+  },
+  {
+    "name": "Atlantis Bookshop",
+    "latitude": 51.517597,
+    "longitude": -0.125227
+  },
+  {
+    "name": "The Bookshop At",
+    "latitude": 51.476402,
+    "longitude": -0.18341133
+  },
+  {
+    "name": "Jo's Bookshop",
+    "latitude": 51.63279,
+    "longitude": 0.008497
+  },
+  {
+    "name": "Barnard's Bookshop",
+    "latitude": 51.545675,
+    "longitude": -0.4800788
+  },
+  {
+    "name": "Barnes Bookshop",
+    "latitude": 51.474792,
+    "longitude": -0.240583
+  },
+  {
+    "name": "Beaumont Travel Books",
+    "latitude": 51.478619,
+    "longitude": 0.026414
+  },
+  {
+    "name": "Beckenham Bookshop",
+    "latitude": 51.409573,
+    "longitude": -0.02532
+  },
+  {
+    "name": "Belgravia Books",
+    "latitude": 51.495122,
+    "longitude": -0.147989
+  },
+  {
+    "name": "Bernard Quaritch",
+    "latitude": 51.509884,
+    "longitude": -0.15181799
+  },
+  {
+    "name": "Big Green Bookshop",
+    "latitude": 51.592432,
+    "longitude": -0.10657851
+  },
+  {
+    "name": "Black Gull Books (Camden)",
+    "latitude": 51.541279,
+    "longitude": -0.146556
+  },
+  {
+    "name": "Black Gull Books (East Finchley)",
+    "latitude": 51.590736,
+    "longitude": -0.164945
+  },
+  {
+    "name": "Book Aid",
+    "latitude": 51.421985,
+    "longitude": -0.035868377
+  },
+  {
+    "name": "Book and Kitchen",
+    "latitude": 51.518492,
+    "longitude": -0.20431647
+  },
+  {
+    "name": "The Book and Record Bar",
+    "latitude": 51.430623,
+    "longitude": -0.10207643
+  },
+  {
+    "name": "Bookartbookshop",
+    "latitude": 51.527184,
+    "longitude": -0.083835
+  },
+  {
+    "name": "Bookcase",
+    "latitude": 51.492725,
+    "longitude": -0.257857
+  },
+  {
+    "name": "Bookends",
+    "latitude": 51.514393,
+    "longitude": -0.129583
+  },
+  {
+    "name": "Book Haus",
+    "latitude": 51.494617,
+    "longitude": -0.156657
+  },
+  {
+    "name": "Bookmarks",
+    "latitude": 51.517155,
+    "longitude": -0.127351
+  },
+  {
+    "name": "Books4Less",
+    "latitude": 51.594256,
+    "longitude": -0.33477
+  },
+  {
+    "name": "Books and Bygones",
+    "latitude": 51.37904,
+    "longitude": 0.01766
+  },
+  {
+    "name": "Bookseller Crow On The Hill",
+    "latitude": 51.417435,
+    "longitude": -0.082054
+  },
+  {
+    "name": "Books For Amnesty",
+    "latitude": 51.49263,
+    "longitude": -0.233447
+  },
+  {
+    "name": "Books For Children",
+    "latitude": 51.583983,
+    "longitude": -0.11614327
+  },
+  {
+    "name": "Books For Cooks",
+    "latitude": 51.515827,
+    "longitude": -0.20565
+  },
+  {
+    "name": "The Book Shop (Loughton)",
+    "latitude": 51.645866,
+    "longitude": 0.053172
+  },
+  {
+    "name": "The Book Shop (Hampton)",
+    "latitude": 51.416004,
+    "longitude": -0.372033
+  },
+  {
+    "name": "The Book Shop (Hackney)",
+    "latitude": 51.550953,
+    "longitude": -0.055382
+  },
+  {
+    "name": "Bookshop on the Heath",
+    "latitude": 51.466827,
+    "longitude": 0.007274
+  },
+  {
+    "name": "Bookstop",
+    "latitude": 51.464409,
+    "longitude": -0.267835
+  },
+  {
+    "name": "Book Warehouse (Camden Town)",
+    "latitude": 51.538113,
+    "longitude": -0.1421084
+  },
+  {
+    "name": "Book Warehouse (Holborn)",
+    "latitude": 51.520667,
+    "longitude": -0.12290606
+  },
+  {
+    "name": "Book Warehouse (Islington)",
+    "latitude": 51.534484,
+    "longitude": -0.10530312
+  },
+  {
+    "name": "Book Warehouse (Notting Hill)",
+    "latitude": 51.509227,
+    "longitude": -0.1962001
+  },
+  {
+    "name": "Bookworm (Finchley Road)",
+    "latitude": 51.584315,
+    "longitude": -0.20001461
+  },
+  {
+    "name": "British Heart Foundation Books & Music Shop",
+    "latitude": 51.435162,
+    "longitude": -0.128531
+  },
+  {
+    "name": "British Red Cross Bookshop",
+    "latitude": 51.619297,
+    "longitude": -0.107503
+  },
+  {
+    "name": "Brixton Bookmongers",
+    "latitude": 51.461426,
+    "longitude": -0.113833
+  },
+  {
+    "name": "Broadway Bookshop",
+    "latitude": 51.536835,
+    "longitude": -0.061433
+  },
+  {
+    "name": "Crofton Books",
+    "latitude": 51.455444,
+    "longitude": -0.036611751
+  },
+  {
+    "name": "Bryars & Bryars",
+    "latitude": 51.510703,
+    "longitude": -0.127422
+  },
+  {
+    "name": "Calder Bookshop",
+    "latitude": 51.502998,
+    "longitude": -0.106838
+  },
+  {
+    "name": "Church Street Bookshop",
+    "latitude": 51.561974,
+    "longitude": -0.081153
+  },
+  {
+    "name": "Chener Books",
+    "latitude": 51.460117,
+    "longitude": -0.075467
+  },
+  {
+    "name": "Chess & Bridge",
+    "latitude": 51.517923,
+    "longitude": -0.153919
+  },
+  {
+    "name": "Children's Bookshop (Muswell Hill)",
+    "latitude": 51.590057,
+    "longitude": -0.146813
+  },
+  {
+    "name": "Chorleywood Bookshop",
+    "latitude": 51.65512,
+    "longitude": -0.52173
+  },
+  {
+    "name": "Claire de Rouen Books",
+    "latitude": 51.515011,
+    "longitude": -0.13006394
+  },
+  {
+    "name": "Clapham Books",
+    "latitude": 51.462405,
+    "longitude": -0.14025633
+  },
+  {
+    "name": "Classic Library",
+    "latitude": 51.480328,
+    "longitude": -0.18533
+  },
+  {
+    "name": "Collinge and Clark",
+    "latitude": 51.526455,
+    "longitude": -0.125045
+  },
+  {
+    "name": "CT Pocket",
+    "latitude": 51.479225,
+    "longitude": -0.025894
+  },
+  {
+    "name": "Donlon Books (Hackney)",
+    "latitude": 51.537629,
+    "longitude": -0.061104342
+  },
+  {
+    "name": "Donlon Books (Soho)",
+    "latitude": 51.5123,
+    "longitude": -0.13891254
+  },
+  {
+    "name": "Dulwich Books",
+    "latitude": 51.436676,
+    "longitude": -0.090444
+  },
+  {
+    "name": "Dulwich Village Books",
+    "latitude": 51.451534,
+    "longitude": -0.084522
+  },
+  {
+    "name": "Brick Lane Bookshop",
+    "latitude": 51.521683,
+    "longitude": -0.071497
+  },
+  {
+    "name": "Burley Fisher Books",
+    "latitude": 51.541536,
+    "longitude": -0.076033518
+  },
+  {
+    "name": "European Bookshop",
+    "latitude": 51.493176,
+    "longitude": -0.181575
+  },
+  {
+    "name": "Faction Bookshop",
+    "latitude": 51.455556,
+    "longitude": 0.011987194
+  },
+  {
+    "name": "Falconwood Transport and Military Bookshop",
+    "latitude": 51.456776,
+    "longitude": 0.094414
+  },
+  {
+    "name": "The Folio Society",
+    "latitude": 51.518774,
+    "longitude": -0.11753802
+  },
+  {
+    "name": "Forbidden Planet (Croydon)",
+    "latitude": 51.37330104,
+    "longitude": -0.102710869
+  },
+  {
+    "name": "Forbidden Planet (Shaftesbury Avenue)",
+    "latitude": 51.515205,
+    "longitude": -0.127265
+  },
+  {
+    "name": "Fosters Bookshop",
+    "latitude": 51.492378,
+    "longitude": -0.257106
+  },
+  {
+    "name": "Freedom Bookshop",
+    "latitude": 51.515953,
+    "longitude": -0.070424
+  },
+  {
+    "name": "Gay's The Word",
+    "latitude": 51.525154,
+    "longitude": -0.125077
+  },
+  {
+    "name": "G Heywood Hill Ltd",
+    "latitude": 51.506985,
+    "longitude": -0.146567
+  },
+  {
+    "name": "Goldsboro Books",
+    "latitude": 51.510686,
+    "longitude": -0.128129
+  },
+  {
+    "name": "Gosh",
+    "latitude": 51.512836,
+    "longitude": -0.134239
+  },
+  {
+    "name": "Greenwich Book Time",
+    "latitude": 51.47946,
+    "longitude": -0.010091409
+  },
+  {
+    "name": "Guanghwa Books",
+    "latitude": 51.51234,
+    "longitude": -0.13080288
+  },
+  {
+    "name": "Halcyon Books (Lee)",
+    "latitude": 51.458519,
+    "longitude": 0.002965584
+  },
+  {
+    "name": "Hatchards (Piccadilly)",
+    "latitude": 51.508549,
+    "longitude": -0.137984
+  },
+  {
+    "name": "Hatchards (St Pancras)",
+    "latitude": 51.531428,
+    "longitude": -0.126134
+  },
+  {
+    "name": "Hellenic Bookservice",
+    "latitude": 51.554713,
+    "longitude": -0.140129
+  },
+  {
+    "name": "Henry Pordes Books",
+    "latitude": 51.512348,
+    "longitude": -0.128531
+  },
+  {
+    "name": "Henry Stokes and Co",
+    "latitude": 51.494038,
+    "longitude": -0.15132
+  },
+  {
+    "name": "Herne Hill Books",
+    "latitude": 51.453211,
+    "longitude": -0.10288109
+  },
+  {
+    "name": "Highgate Bookshop",
+    "latitude": 51.570267,
+    "longitude": -0.146127
+  },
+  {
+    "name": "House Of Books",
+    "latitude": 51.57958,
+    "longitude": -0.12390652
+  },
+  {
+    "name": "House Of Hodge",
+    "latitude": 51.560016,
+    "longitude": -0.09872
+  },
+  {
+    "name": "Housmans Booksellers",
+    "latitude": 51.531319,
+    "longitude": -0.120957
+  },
+  {
+    "name": "Hurlingham Books",
+    "latitude": 51.468086,
+    "longitude": -0.210092
+  },
+  {
+    "name": "Ian Allan Bookshop",
+    "latitude": 51.501049,
+    "longitude": -0.111923
+  },
+  {
+    "name": "Institute of Contemporary Arts",
+    "latitude": 51.505951,
+    "longitude": -0.130849
+  },
+  {
+    "name": "Ink@84",
+    "latitude": 51.557356,
+    "longitude": -0.098001748
+  },
+  {
+    "name": "Jambala",
+    "latitude": 51.528324,
+    "longitude": -0.051273
+  },
+  {
+    "name": "Jarndyce",
+    "latitude": 51.51807,
+    "longitude": -0.126386
+  },
+  {
+    "name": "John Sandoe Books",
+    "latitude": 51.491364,
+    "longitude": -0.160954
+  },
+  {
+    "name": "Manor House Books/John Trotter Books",
+    "latitude": 51.595509,
+    "longitude": -0.189214
+  },
+  {
+    "name": "Joseph's Bookstore",
+    "latitude": 51.586334,
+    "longitude": -0.2002
+  },
+  {
+    "name": "Judd Books",
+    "latitude": 51.52597,
+    "longitude": -0.125499
+  },
+  {
+    "name": "Junk Shop",
+    "latitude": 51.477554,
+    "longitude": -0.012038
+  },
+  {
+    "name": "Karnac Books",
+    "latitude": 51.546631,
+    "longitude": -0.179021
+  },
+  {
+    "name": "Keith Fawkes",
+    "latitude": 51.556583,
+    "longitude": -0.177562
+  },
+  {
+    "name": "Kew Bookshop",
+    "latitude": 51.477455,
+    "longitude": -0.285687
+  },
+  {
+    "name": "Kirkdale Bookshop",
+    "latitude": 51.426628,
+    "longitude": -0.055575
+  },
+  {
+    "name": "K K Outlet",
+    "latitude": 51.527284,
+    "longitude": -0.080649599
+  },
+  {
+    "name": "Koenig Books (Charing Cross Road)",
+    "latitude": 51.512714,
+    "longitude": -0.128757
+  },
+  {
+    "name": "Koenig Books (Serpentine Gallery)",
+    "latitude": 51.504718,
+    "longitude": -0.17497578
+  },
+  {
+    "name": "Librairie La Page",
+    "latitude": 51.494011,
+    "longitude": -0.17524575
+  },
+  {
+    "name": "Libreria",
+    "latitude": 51.520318,
+    "longitude": -0.070559129
+  },
+  {
+    "name": "Lloyd's of Kew",
+    "latitude": 51.482605,
+    "longitude": -0.286426
+  },
+  {
+    "name": "London Review Bookshop",
+    "latitude": 51.518509,
+    "longitude": -0.124062
+  },
+  {
+    "name": "Lovejoys",
+    "latitude": 51.513771,
+    "longitude": -0.129561
+  },
+  {
+    "name": "Lucky Seven",
+    "latitude": 51.561733,
+    "longitude": -0.081035
+  },
+  {
+    "name": "Lutyens and Rubinstein",
+    "latitude": 51.51506,
+    "longitude": -0.20564
+  },
+  {
+    "name": "Maggs Bros (Bloomsbury)",
+    "latitude": 51.518599,
+    "longitude": -0.12935449
+  },
+  {
+    "name": "Maggs Bros (Mayfair)",
+    "latitude": 51.506799,
+    "longitude": -0.14655684
+  },
+  {
+    "name": "Magma (Clerkenwell Road)",
+    "latitude": 51.521763,
+    "longitude": -0.11158
+  },
+  {
+    "name": "Marchmont Bookshop",
+    "latitude": 51.526836,
+    "longitude": -0.128231
+  },
+  {
+    "name": "Marchpane",
+    "latitude": 51.510745,
+    "longitude": -0.127881
+  },
+  {
+    "name": "Marcus Campbell Art Books",
+    "latitude": 51.507719,
+    "longitude": -0.10186587
+  },
+  {
+    "name": "Material",
+    "latitude": 51.526113,
+    "longitude": -0.083169535
+  },
+  {
+    "name": "Morden Hall Park Bookshop",
+    "latitude": 51.402331,
+    "longitude": -0.18809715
+  },
+  {
+    "name": "Museum of London Docklands Bookshop",
+    "latitude": 51.50750979,
+    "longitude": -0.02387933
+  },
+  {
+    "name": "Muswell Hill Bookshop",
+    "latitude": 51.590096,
+    "longitude": -0.146041
+  },
+  {
+    "name": "New Beacon Books",
+    "latitude": 51.568359,
+    "longitude": -0.109885
+  },
+  {
+    "name": "National Theatre Bookshop",
+    "latitude": 51.506874,
+    "longitude": -0.11409762
+  },
+  {
+    "name": "Naval and Maritime Books",
+    "latitude": 51.476498,
+    "longitude": -0.009634
+  },
+  {
+    "name": "New Cross Learning",
+    "latitude": 51.475433,
+    "longitude": -0.038587198
+  },
+  {
+    "name": "Newham Bookshop",
+    "latitude": 51.530334,
+    "longitude": 0.037251
+  },
+  {
+    "name": "Nomad Books",
+    "latitude": 51.476494,
+    "longitude": -0.203891
+  },
+  {
+    "name": "The Notting Hill Bookshop",
+    "latitude": 51.515659,
+    "longitude": -0.205457
+  },
+  {
+    "name": "Offside Books",
+    "latitude": 51.540944,
+    "longitude": -0.20223239
+  },
+  {
+    "name": "The Old Bookshop",
+    "latitude": 51.660278,
+    "longitude": -0.082709
+  },
+  {
+    "name": "The Old Operating Theatre Bookshop",
+    "latitude": 51.504969,
+    "longitude": -0.088619784
+  },
+  {
+    "name": "The Open Book",
+    "latitude": 51.459888,
+    "longitude": -0.306823
+  },
+  {
+    "name": "Osterley Bookshop",
+    "latitude": 51.48312,
+    "longitude": -0.348108
+  },
+  {
+    "name": "Owl Bookshop",
+    "latitude": 51.547215,
+    "longitude": -0.1419
+  },
+  {
+    "name": "Oxfam Books and Music (Kentish Town Road)",
+    "latitude": 51.547001,
+    "longitude": -0.14147
+  },
+  {
+    "name": "Oxfam Books and Music (Crouch End)",
+    "latitude": 51.58077,
+    "longitude": -0.12467
+  },
+  {
+    "name": "Oxfam Books and Music (Gloucester Road)",
+    "latitude": 51.498123,
+    "longitude": -0.183849
+  },
+  {
+    "name": "Oxfam Books and Music (Islington)",
+    "latitude": 51.535108,
+    "longitude": -0.10455479
+  },
+  {
+    "name": "Oxfam Books and Music (Marylebone)",
+    "latitude": 51.520054,
+    "longitude": -0.15192
+  },
+  {
+    "name": "Oxfam Bookshop (Ealing)",
+    "latitude": 51.51104,
+    "longitude": -0.305192
+  },
+  {
+    "name": "Oxfam Bookshop (Bloomsbury)",
+    "latitude": 51.517605,
+    "longitude": -0.127394
+  },
+  {
+    "name": "Oxfam Bookshop (Portobello Road)",
+    "latitude": 51.515553,
+    "longitude": -0.204642
+  },
+  {
+    "name": "Oxfam Bookshop (Turnham Green)",
+    "latitude": 51.494476,
+    "longitude": -0.255228
+  },
+  {
+    "name": "Oxfam Bookshop (Westminster)",
+    "latitude": 51.496887,
+    "longitude": -0.133885
+  },
+  {
+    "name": "Oxfam Bookshop (Highgate)",
+    "latitude": 51.570934,
+    "longitude": -0.149024
+  },
+  {
+    "name": "Oxfam Bookshop (Kingston)",
+    "latitude": 51.410625,
+    "longitude": -0.299013
+  },
+  {
+    "name": "Oxfam Bookshop (Epsom)",
+    "latitude": 51.334568,
+    "longitude": -0.261247
+  },
+  {
+    "name": "Oxfam Bookshop (Blackheath)",
+    "latitude": 51.467121,
+    "longitude": 0.00706
+  },
+  {
+    "name": "Oxfam Bookshop (Muswell Hill)",
+    "latitude": 51.5915,
+    "longitude": -0.14255
+  },
+  {
+    "name": "Oxfam Bookshop (Greenwich)",
+    "latitude": 51.481775,
+    "longitude": -0.009744063
+  },
+  {
+    "name": "Pages of Cheshire Street",
+    "latitude": 51.523541,
+    "longitude": -0.070959717
+  },
+  {
+    "name": "Pages of Fun",
+    "latitude": 51.496319,
+    "longitude": -0.143927
+  },
+  {
+    "name": "Pages of Hackney",
+    "latitude": 51.55262,
+    "longitude": -0.052571
+  },
+  {
+    "name": "Paper & Cup (Bow)",
+    "latitude": 51.518015,
+    "longitude": -0.026976
+  },
+  {
+    "name": "Paper & Cup (Shoreditch)",
+    "latitude": 51.526171,
+    "longitude": -0.0763295
+  },
+  {
+    "name": "Persephone Bookshop (Bloomsbury)",
+    "latitude": 51.521938,
+    "longitude": -0.11876
+  },
+  {
+    "name": "Persephone Bookshop (Kensington)",
+    "latitude": 51.506607,
+    "longitude": -0.194771
+  },
+  {
+    "name": "Peter Ellis",
+    "latitude": 51.510744,
+    "longitude": -0.127945
+  },
+  {
+    "name": "Peter Harrington (Chelsea)",
+    "latitude": 51.489669,
+    "longitude": -0.17529
+  },
+  {
+    "name": "Peter Harrington (Mayfair)",
+    "latitude": 51.50802,
+    "longitude": -0.14189114
+  },
+  {
+    "name": "Phlox Books",
+    "latitude": 51.563806,
+    "longitude": -0.005633578
+  },
+  {
+    "name": "Photo Books International",
+    "latitude": 51.527557,
+    "longitude": -0.125034
+  },
+  {
+    "name": "Pickled Pepper Books",
+    "latitude": 51.58093,
+    "longitude": -0.12354349
+  },
+  {
+    "name": "Pitshanger Bookshop",
+    "latitude": 51.525742,
+    "longitude": -0.31472
+  },
+  {
+    "name": "Pleasures Of Past Times",
+    "latitude": 51.510701,
+    "longitude": -0.127602
+  },
+  {
+    "name": "Primrose Hill Books",
+    "latitude": 51.540691,
+    "longitude": -0.157263
+  },
+  {
+    "name": "Quaker Centre Bookshop",
+    "latitude": 51.526615,
+    "longitude": -0.13223746
+  },
+  {
+    "name": "Queens Park Books",
+    "latitude": 51.535824,
+    "longitude": -0.205318
+  },
+  {
+    "name": "Quinto",
+    "latitude": 51.512608,
+    "longitude": -0.128671
+  },
+  {
+    "name": "R A Gekoski",
+    "latitude": 51.518623,
+    "longitude": -0.123403
+  },
+  {
+    "name": "Red Cross Bookshop",
+    "latitude": 51.619625,
+    "longitude": -0.10709
+  },
+  {
+    "name": "Regency Bookshop",
+    "latitude": 51.391468,
+    "longitude": -0.308819
+  },
+  {
+    "name": "Review Books",
+    "latitude": 51.467964,
+    "longitude": -0.072248
+  },
+  {
+    "name": "Ripley & Lambert",
+    "latitude": 51.54476,
+    "longitude": -0.075832352
+  },
+  {
+    "name": "Riverside Bookshop",
+    "latitude": 51.505063,
+    "longitude": -0.083914787
+  },
+  {
+    "name": "Robert Frew Ltd",
+    "latitude": 51.496245,
+    "longitude": -0.16992827
+  },
+  {
+    "name": "Round Table Books",
+    "latitude": 51.462203,
+    "longitude": -0.11149903
+  },
+  {
+    "name": "Rye Books",
+    "latitude": 51.4576,
+    "longitude": -0.073630258
+  },
+  {
+    "name": "School Of Life",
+    "latitude": 51.525539,
+    "longitude": -0.125248
+  },
+  {
+    "name": "Second Shelf",
+    "latitude": 51.511545,
+    "longitude": -0.13497774
+  },
+  {
+    "name": "Shalimar",
+    "latitude": 51.491043,
+    "longitude": -0.10506937
+  },
+  {
+    "name": "Sheen Bookshop",
+    "latitude": 51.46447,
+    "longitude": -0.26731525
+  },
+  {
+    "name": "Shepherds (Victoria)",
+    "latitude": 51.494105,
+    "longitude": -0.13695051
+  },
+  {
+    "name": "Ship of Adventures",
+    "latitude": 51.550285,
+    "longitude": -0.075002208
+  },
+  {
+    "name": "Skoob",
+    "latitude": 51.524128,
+    "longitude": -0.123903
+  },
+  {
+    "name": "Sims Reed",
+    "latitude": 51.507106,
+    "longitude": -0.1376448
+  },
+  {
+    "name": "SOAS Bookshop",
+    "latitude": 51.522377,
+    "longitude": -0.129304
+  },
+  {
+    "name": "Soho's Original Bookshop",
+    "latitude": 51.518185,
+    "longitude": -0.079136
+  },
+  {
+    "name": "Sokol Books",
+    "latitude": 51.489425,
+    "longitude": -0.17531146
+  },
+  {
+    "name": "Sophie Schneideman Rare Books",
+    "latitude": 51.521423,
+    "longitude": -0.210494
+  },
+  {
+    "name": "Sotheran's of Sackville Street",
+    "latitude": 51.509156,
+    "longitude": -0.137795
+  },
+  {
+    "name": "South Kensington Books",
+    "latitude": 51.494305,
+    "longitude": -0.173829
+  },
+  {
+    "name": "Spink and Sons",
+    "latitude": 51.520294,
+    "longitude": -0.12292
+  },
+  {
+    "name": "Stanfords",
+    "latitude": 51.513076,
+    "longitude": -0.12547736
+  },
+  {
+    "name": "Stephen Foster Bookshop",
+    "latitude": 51.52219,
+    "longitude": -0.165696
+  },
+  {
+    "name": "Stephen Poole Fine Books",
+    "latitude": 51.510749,
+    "longitude": -0.127703
+  },
+  {
+    "name": "Stoke Newington Bargain Bookshop",
+    "latitude": 51.561012,
+    "longitude": -0.074179
+  },
+  {
+    "name": "Stoke Newington Bookshop",
+    "latitude": 51.561306,
+    "longitude": -0.074222
+  },
+  {
+    "name": "Swedenborg Society Bookshop",
+    "latitude": 51.518066,
+    "longitude": -0.123103
+  },
+  {
+    "name": "Tales on Moon Lane",
+    "latitude": 51.453001,
+    "longitude": -0.099868968
+  },
+  {
+    "name": "Taschen",
+    "latitude": 51.491451,
+    "longitude": -0.1594045
+  },
+  {
+    "name": "Tate Modern Bookshop",
+    "latitude": 51.50770556,
+    "longitude": -0.099380748
+  },
+  {
+    "name": "Tenderbooks",
+    "latitude": 51.510752,
+    "longitude": -0.127485
+  },
+  {
+    "name": "Tindley and Everett",
+    "latitude": 51.510752,
+    "longitude": -0.127362
+  },
+  {
+    "name": "Ti Pi Tin",
+    "latitude": 51.558527,
+    "longitude": -0.074460402
+  },
+  {
+    "name": "Travis & Emery",
+    "latitude": 51.510691,
+    "longitude": -0.127878
+  },
+  {
+    "name": "Treadwell's (and Offstage Books)",
+    "latitude": 51.519928,
+    "longitude": -0.131181
+  },
+  {
+    "name": "Trinity Hospice Bookshop",
+    "latitude": 51.503586,
+    "longitude": -0.191976
+  },
+  {
+    "name": "Vanilla Black Coffee and Books",
+    "latitude": 51.486713,
+    "longitude": -0.111794
+  },
+  {
+    "name": "Village Bookshop (Woodford)",
+    "latitude": 51.610104,
+    "longitude": 0.021715
+  },
+  {
+    "name": "Village Books (Wandsworth Common)",
+    "latitude": 51.445621,
+    "longitude": -0.165932
+  },
+  {
+    "name": "W4 Love Books",
+    "latitude": 51.493275,
+    "longitude": -0.2552252
+  },
+  {
+    "name": "Walden Books",
+    "latitude": 51.544292,
+    "longitude": -0.147028
+  },
+  {
+    "name": "Watkins Books",
+    "latitude": 51.51069,
+    "longitude": -0.127976
+  },
+  {
+    "name": "Wellington Arch Bookshop",
+    "latitude": 51.502545,
+    "longitude": -0.15079835
+  },
+  {
+    "name": "West End Lane Books",
+    "latitude": 51.550564,
+    "longitude": -0.191724
+  },
+  {
+    "name": "Wildy & Sons Ltd",
+    "latitude": 51.515179,
+    "longitude": -0.112824
+  },
+  {
+    "name": "Willesden Bookshop",
+    "latitude": 51.570242,
+    "longitude": -0.146111
+  },
+  {
+    "name": "Wimbledon Books",
+    "latitude": 51.425385,
+    "longitude": -0.22037
+  },
+  {
+    "name": "The Word",
+    "latitude": 51.475538,
+    "longitude": -0.03713344
+  },
+  {
+    "name": "World's End Bookshop",
+    "latitude": 51.483883,
+    "longitude": -0.176682
+  }
+]
