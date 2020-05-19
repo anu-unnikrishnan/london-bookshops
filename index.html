@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+        <center>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+      <title>london bookshops</title>
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.0.3/leaflet.css" type="text/css" crossorigin="">
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.0.3/leaflet.js" crossorigin=""></script>
+      <style>
+        #mapid {
+            width: 950px;
+            height: 450px;
+            border: 7px solid #ccc;
+        }
+
+        .leaflet-container {
+            background: #fff;
+        }
+      </style>
+       
+        <script type="text/javascript">
+          function init() {
+            // create map and set center and zoom level
+            var map = new L.map('mapid');
+            map.setView([51.5007, -0.1246], 13);
+            
+            //var mapboxTileUrl = 'https://api.mapbox.com/styles/v1/anu-u/ckabnihh41dux1iprfbqwr8j1/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1IjoiYW51LXUiLCJhIjoiY2thYm5nbG5vMThmdzJ6cDRyYWF6cDQ0aSJ9.ixUNKwZdZb8Icp7R74_JHg';
+            var mapboxTileUrl = 'https://api.mapbox.com/styles/v1/anu-u/ckae258bx0fat1imqm14er4u5/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1IjoiYW51LXUiLCJhIjoiY2thYm5nbG5vMThmdzJ6cDRyYWF6cDQ0aSJ9.ixUNKwZdZb8Icp7R74_JHg';
+
+            L.tileLayer(mapboxTileUrl, {
+                <!--attribution: 'Background map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors'-->
+            }).addTo(map);         
+          }  
+        </script>
+      </head>
+      <body onload="init()"> 
+        <h1 id="title" style="font-family: futura; color: #ff5a4c; font-size: 40px">london bookshops</h1>
+        <div id="mapid"></div>   
+      </body>
+    </center>
+    </html>
